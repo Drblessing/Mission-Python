@@ -12,6 +12,10 @@ escape
 # C extensions
 *.so
 
+images
+listings
+sounds
+
 #Data 
 Data/
 
