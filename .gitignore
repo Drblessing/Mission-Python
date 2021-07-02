@@ -8,6 +8,7 @@ __pycache__/
 *$py.class
 .idea
 
+escape
 # C extensions
 *.so
 
